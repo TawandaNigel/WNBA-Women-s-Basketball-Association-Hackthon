@@ -1,0 +1,62 @@
+[
+    
+{"Question": "In what year were players guaranteed 100% of their base salary during pregnancy?",
+"answers": [ 
+
+    {"a": 2022,
+    "b": 2018,
+    "c": 2010,
+    "d": 2020}
+    ],
+    "answer": "d: 2020",
+    "extra tidbit": "The WNBA now offers players a reimbursement for childcare up to $750 per month.",
+    "id": "Multiple Choice Q1"
+},
+{"Question": "What is the average amount of time a player plays professionally?",
+"answers": [
+
+    {"a": "10 years",
+    "b": "5 years",
+    "c": "3 years",
+    "d": "8 years" }
+    ],
+    "answer": "b: 5 years",
+    "extra tidbit": "Many players, like Kayla Alexander (Indiana Fever) and Seimone Augustus (Minnesota Lynx), attend Harvard University Business programs follwing their WNBA tenure.",
+    "id": "Multiple Choice Q2"
+
+},
+
+{"Question": "Who was the first WNBA player inducted into the Naismith Basketball Hall of Fame?",
+"answers": [
+
+    {"a": "Candace Parker",
+    "b": "Sue Bird",
+    "c": "Cynthia Cooper",
+    "d": "Chelsea Gray" },
+    ],
+    "answer": "c: Cynthia Cooper",
+    "extra tidbit": "Cynthia Cooper guided the Houston Comets to four consecutive WNBA championships and was also named Finals MVP every time.",
+    "id": "Multiple Choice Q3"
+},
+
+{"Question": "A’ja Riyadh Wilson was named after her father's favorite Steely Dan song.",
+"answers": [
+
+    {"a": "True",
+    "b": "False"}
+],
+    "answer": "a: True",
+    "extra tidbit": "The song is called 'Aja', was released in 1977.",
+    "id": "True/False Q1"
+},
+
+{"Question": "Maya Moore holds the record for most WNBA Championships won",
+"answers":[
+
+    {"a": "True",
+    "b": "False"}
+],
+    "answer": "b: False",
+    "extra tidbit": "She shares this record with Cynthia Cooper, Sue Bird, Simone Augustus, Tina Thompson, and Sheryl Swoopes, who have all won 4 championships.",
+    "id": "True/False Q2"}
+]
